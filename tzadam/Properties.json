@@ -1,0 +1,7 @@
+{
+    "Name": "Taze Adam Level Repository",
+    "Description": "Template for Taze Adam level repositories. Don't forget to change these strings, it will look really stupid otherwise.",
+    "Icon": "ExampleIcon.jpg",
+    "_comment": "Paths start from '/tzadam/'.",
+    "_comment2": "This icon should be a square and preferably a small JPEG, for faster load times on slow internet connections."
+}

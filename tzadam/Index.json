@@ -1,0 +1,20 @@
+{
+    "_comment": "This is where you will add your levels. If they are not added, they won't show up in Taze Adam. Paths start from '/tzadam/'. You don't have to store your levels in 'Levels/'.",
+    "_comment2": "Make sure that the metadata for levels is the same as in the files. The script can manage the metadata for you.",
+    "_comment3": "The metadata shown here will be used in the level browser. The metadata in the files will be used when the user saves the level.",
+    "Levels": 
+    [
+        {
+            "Path":"Levels/ExampleLevel.tzal",
+            "Metadata": 
+            {
+                "Name": "ExampleLevel",
+                "Description": "",
+                "Author": "SpaceChuck",
+                "GameVersionNumber": 19,
+                "GameVersion": "2.2.2",
+                "Source": ""
+            }
+        }
+    ]
+}
